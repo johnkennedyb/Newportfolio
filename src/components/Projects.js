@@ -118,8 +118,4 @@ function ProjectSection() {
 }
 
 export default ProjectSection;
-    </div>
-  );
-}
-
-export default ProjectSection;
+    
