@@ -10,7 +10,7 @@ function ProjectSection() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
           {/* Project 1 */}
           <div className="project-card bg-white rounded-lg shadow-lg transition-transform transform hover:-translate-y-2 hover:shadow-2xl">
-            <img className="w-full h-48 object-cover object-center" src="image-link-here.jpg" alt="Fintech dashboard project preview" />
+            <img className="w-full h-48 object-cover object-center" src="https://res.cloudinary.com/dw7w2at8k/image/upload/v1728080988/WhatsApp_Image_2024-10-04_at_22.49.54_oxolqg.jpg" alt="Fintech dashboard project preview" />
             <div className="p-6">
               <h3 className="text-lg font-semibold text-gray-800 mb-2">KriaPay Technology Limited</h3>
               <p className="text-gray-600">I built the Fintech application dashboard with React + ViteJS.</p>
