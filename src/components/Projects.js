@@ -72,7 +72,6 @@ function ProjectSection() {
         
 
           {/* Project 5 */}
-           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mt-8">
           {/* Project 7 */}
           <div className="project-card bg-white rounded-lg shadow-lg transition-transform transform hover:-translate-y-2 hover:shadow-2xl">
             <img className="w-full h-48 object-cover object-center" src="https://i.ibb.co/9ydG6Hy/boston-1536x1024.jpg" alt="Project 6" />
